@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+
+<head>
+    <title>HTML INPUT</title>
+</head>    
 <form action="action.php" method="POST">
     <table>
         <tr>
